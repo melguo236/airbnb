@@ -77,8 +77,8 @@ def main():
 	st.subheader('Map of Short-term NYC Airbnbs of Entire Homes/Apartments')
 
 	# Select month and year to view on map
-	option = st.select_slider('Month and Year', ['', 'February 2024', 'March 2024', 'April 2024', 'May 2024', 'June 2024', 
-     'July 2024', 'August 2024', 'September 2024', 'October 2024', 'November 2024', 'December 2024', 'January 2025'])
+	option = st.select_slider('Month and Year', ['February 2024', 'March 2024', 'April 2024', 'May 2024', 'June 2024', 
+     'July 2024', 'August 2024', 'September 2024', 'October 2024', 'November 2024', 'December 2024', 'January 2025'], value = 'February 2024')
 
 	# Get numerical month of chosen month and yeaar from slider
 	date = parse(option, fuzzy_with_tokens = True)
