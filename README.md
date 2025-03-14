@@ -2,7 +2,7 @@ Title: NYC, Airbnb, Data Sharing Law, Short-Term Rental Registration Law
 
 Project Overview
 
-For years, New York City and Airbnb have battled over the legality of short-term rentals. NYC is one of the top tourist destinations worldwide, making short-term rentals in the city a profitable commodity for Airbnb. However, city officials have long suspected that many Airbnb short-term rentals are illegal. By law, it is illegal to rent out an entire house or apartment to a visitor for less than 30 days. If a host is renting out a room in their home for less than 30 days, they must also be living in the unit. 
+For years, New York City and Airbnb have battled over the legality of short-term rentals. NYC is one of the top tourist destinations worldwide, making short-term rentals in the city a profitable commodity for Airbnb. However, city officials have long suspected that many Airbnb short-term rentals are illegal. By law, individuals cannot rent out an entire house or apartment to a visitor for less than 30 days. If a host is renting out a room in their home for less than 30 days, they must also be living in the unit. 
 
 In 2018, NYC passed a mandatory data sharing law, Local Law 146, requiring Airbnb and similar companies to provide city officials with information on every short-term listing (less than 30 days) in NYC, including hosts’ addresses and identities, in order to crack down on those that violate New York’s short-term rental laws. In response, Airbnb filed a lawsuit against the city, claiming that the data sharing law violated the hosts’ Fourth Amendment right against illegal searches. In June 2020, Airbnb dismissed the lawsuit and the data sharing law went into effect in December 2020.
 
